@@ -1,0 +1,14 @@
+Getting Git version info
+Temporarily overriding HOME='D:\a\_temp\3303225b-d0a4-4cbd-a07e-64535224eb8f' before making global git config changes
+Adding repository directory to the temporary git global config as a safe directory
+"C:\Program Files\Git\bin\git.exe" config --global --add safe.directory D:\a\--name-Cache-uses-actions-cache-v3.0.11\--name-Cache-uses-actions-cache-v3.0.11
+Deleting the contents of 'D:\a\--name-Cache-uses-actions-cache-v3.0.11\--name-Cache-uses-actions-cache-v3.0.11'
+Initializing the repository
+Disabling automatic garbage collection
+Setting up auth
+Fetching the repository
+Determining the checkout info
+Checking out the ref
+  "C:\Program Files\Git\bin\git.exe" checkout --progress --force -B main refs/remotes/origin/main
+  Error: error: invalid path '### Hi there 👋 shiba-inu/doget 09.09.09.333333.10.10.10 bitcoin  <!-- **amanciojsilvajr/amanciojsilvajr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.'
+  Error: The process 'C:\Program Files\Git\bin\git.exe' failed with exit code 128
