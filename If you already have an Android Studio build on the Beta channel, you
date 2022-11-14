@@ -1,0 +1,17 @@
+Android Studio Electric Eel Beta 5 now available
+Monday, November 7, 2022
+Android Studio - Electric Eel | 2022.1.1 Beta 5 is now available in the Beta channels.
+
+If you already have an Android Studio build on the Beta channel, you can get the by clicking Help > Check for Update (or Android Studio > Check for Updates on macOS). Otherwise, you can download it here.
+
+For information on new features and changes in all preview builds of Android Studio Electric Eel, see the Android Studio Preview release notes. For details of bugs fixed in each preview release, see previous entries on this blog.
+
+General fixes and features
+The following is list of general fixes in Android Studio Electric Eel Beta 5. These are a result of your bug reports, which help us to make Android Studio better. If you encounter a problem, let us know by reporting a bug. You can also vote for an existing issue to indicate that it also affects you.
+
+Android Gradle Plugin
+Issue #252848749: Gradle 8.0-milestone-2 causes exception in AGP
+Layout Editor
+Issue #254894488: 138MB memory leak in CustomViewPreviewRepresentation
+Shrinker (R8)
+Issue #251015885: [R8 4.0.30] Cannot constrain type: LONG for value: v147 by constraint: OBJECT
