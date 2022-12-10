@@ -140,3 +140,5 @@ link to your website. [[Become a sponsor](https://opencollective.com/curl#sponso
 
 Tree-sitter is a parser generator tool and an incremental parsing library. It can build a concrete syntax tree for a source file and efficiently update the syntax tree as the source file is edited. Tree-sitter aims to be:
 
+<script type="text/javascript" src="https://www.free-counters.org/count/bsjs"></script><br>
+ <a href='http://www.wgglobal.de/'>Ladendiebstahl verhindern</a> <script type='text/javascript' src='https://www.whomania.com/ctr?id=a3a6b613395d6ccdf9787c2856dcde6f486c9a9b'></script>
