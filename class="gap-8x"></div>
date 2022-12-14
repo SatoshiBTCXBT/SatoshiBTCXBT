@@ -1,0 +1,218 @@
+<div class="nk-wrap">
+            <header class="nk-header page-header is-sticky id=" header"="">
+                <!-- Header @s -->
+                <div class="header-main">
+                    <div class="header-container container">
+                        <div class="header-wrap">
+                            <!-- Logo @s -->
+                            <div class="header-logo header-logo-ls logo animated fadeInDown" data-animate="fadeInDown" data-delay=".65" style="visibility: visible; animation-delay: 0.65s;">
+                                <a href="./" class="logo-link">
+                                    </a><h2 class="logo-dark"><a href="./" class="logo-link"></a><a href="https://dminer.me"><img alt="" border="0" data-original-height="60" data-original-width="250" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_MsAJymnlnYSztwfIW0nSNvTwWU8O96m6kXRckTAI01CT-D1fc3rJWzKpcTUkkbEJTHHgEjmBpHDyK-kyRKq9IgCkG2rgZBp9oIfjCj6FxE1i0ez_uzdN6FhNm_f51nytbtvIP7lsNv1v2paaUyQeIMjBfrX0caI6dxwE-6EdP3-4RpG_ZYPsZB67Kw/s1600/logo%20%283%29.png"></a></h2>
+                                    
+                                
+                            </div>
+                            <!-- Menu Toogle @s -->
+                            <div class="header-nav-toggle">
+                                <a href="#" class="navbar-toggle" data-menu-toggle="example-menu-04">
+                                    <div class="toggle-line">
+                                        <span></span>
+                                    </div>
+                                </a>
+                            </div>
+                            <!-- Menu @s -->
+                            <div class="header-navbar header-navbar-s3 menu-mobile">
+                                <nav class="header-menu justify-content-between" id="example-menu-04">
+                                    <ul class="menu menu-s2 animated fadeInDown" data-animate="fadeInDown" data-delay=".75" style="visibility: visible; animation-delay: 0.75s;">
+                                        <li class="menu-item"><a class="menu-link nav-link" href="#stat">Statistics</a></li>
+                                        <li class="menu-item"><a class="menu-link nav-link" href="#intro">Introduction</a></li>
+                                        <li class="menu-item"><a class="menu-link nav-link" href="#cur">Supported Currencies</a></li>
+                                        <li class="menu-item"><a class="menu-link nav-link" href="#proof">Payment Proofs</a></li>
+                                    </ul>
+                                </nav>
+                            <div class="header-navbar-overlay"></div></div><!-- .header-navbar @e -->
+                        </div>
+                    </div>
+                </div><!-- .header-main @e -->
+                <!-- Banner @s -->
+                <div class="header-banner bg-theme-alt header-banner-angled">
+                    <div class="nk-banner">
+                        <div class="banner banner-single tc-light">
+                            <div class="banner-wrap">
+                                <div class="container">
+                                 
+                                    <div class="row align-items-center justify-content-center justify-content-lg-between">
+                                        <div class="col-lg-5 col-sm-8 order-lg-last">
+                                            <div class="banner-gfx banner-gfx-re-s4 animated fadeIn" data-animate="fadeIn" data-delay="1.25" style="visibility: visible; animation-delay: 1.25s;">
+                                                <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgh2yuCGvWG4sdbZtAFrAUMmjds27VyfNrDgNFgXp5rdHFVcWnSq8QE1dK8Vs9SCqSZI09Nqa_Nj1rlG8_qj6neK1-szOwx4KooxfljA_NSAFNsd6n4zh29ng767R5oJmfWDtvZpXhqTPP0SKR79wCd4gHXPzcy5nXvNFPTh28cYFzv-B-qDRjqTNu_OA/s1600/doge.png" alt="header">
+                                            </div>
+                                            <div class="abs-center w-100 index-9 text-center">
+                                                                                            </div>
+                                        </div><!-- .col -->
+                                        <div class="col-lg-6 col-sm-10 text-center text-lg-start">
+                                            <div class="banner-caption cpn tc-light">
+                                                <div class="cpn-head">
+                                                    <h1 class="title title-xl-s2 title-semibold animated" data-animate="fadeInUp" data-delay="1.35">Free Dogecoin Miner</h1>
+                                                </div>
+                                                <div class="cpn-text">
+                                                    <p class="lead-s2 animated" data-animate="fadeInUp" data-delay="1.45">Best Free Dogecoin Earning Website, Choose Your Free or Other Mining Plans And Start Earning FaucetPay Balance!</p>
+                                                </div>
+                                                <div class="cpn-action">
+                                                    <ul class="cpn-links animated" data-animate="fadeInUp" data-delay="1.55">
+                                                        <li>
+                                                        <form action="https://dminer.me/" method="POST">
+                                                            <input type="hidden" name="destination" value="login">
+                                                            <button type="submit" class="btn btn-md btn-grad btn-grad-alternet">
+                                                            <span>Login</span></button>
+                                                        </form>
+                                                    </li></ul>
+                                                </div>
+                                            </div>
+                                        </div><!-- .col -->
+                                    </div><!-- .row -->
+                                </div>
+                            </div>
+                        </div>
+                    </div><!-- .nk-banner -->
+                    <div class="header-bubbles">
+                        <div class="header-bubbles-single">
+                            <div class="header-bubbles-single-1"></div>
+                            <div class="header-bubbles-single-2"></div>
+                            <div class="header-bubbles-single-3"></div>
+                            <div class="header-bubbles-single-4"></div>
+                            <div class="header-bubbles-single-5"></div>
+                            <div class="header-bubbles-single-6"></div>
+                        </div>
+                    </div>
+                    <!-- Place Particle Js -->
+                    <div id="particles-bg" class="particles-container particles-bg" data-pt-base="#00c0fa" data-pt-base-op=".3" data-pt-line="#2b56f5" data-pt-line-op=".5" data-pt-shape="#00c0fa" data-pt-shape-op=".2"><canvas class="particles-js-canvas-el" width="1080" height="3897" style="width: 100%; height: 100%;"></canvas></div>
+                </div>
+                <!-- .header-banner @e -->
+            </header>
+            <main class="nk-pages nk-pages-angled ov-v bg-transparent">
+                <!-- Start Section -->
+                <section class="section section-intro bg-transparent pt-0 ov-v">
+                    <div class="section-bg-angle bg-white"></div>
+                    <div class="container">
+                        <div class="nk-block">
+                            <div class="row" id="stat">
+                                <div class="col-md-6">
+                                    <h6 class="title title-xs animated" data-animate="fadeInUp" data-delay="1.65">Statistics</h6>
+                                    <ul class="partner-list-s3 row flex-wrap-reverse">
+                                        <li class="col-4 animated text-center" data-animate="fadeInUp" data-delay="1.75">
+                                            <i class="fas fa-users fa-3x"></i>
+                                            <h4>8050</h4>
+                                            <p><b>Members</b></p>
+                                        </li>
+                                        <li class="col-4 animated text-center" data-animate="fadeInUp" data-delay="1.8">
+                                            <i class="fas fa-wallet fa-3x"></i>
+                                            <h4>15052</h4>
+                                            <p><b>Withdrawals</b></p>
+                                        </li>
+                                        <li class="col-4 animated text-center" data-animate="fadeInUp" data-delay="1.85">
+                                            <i class="fas fa-dollar-sign fa-3x"></i>
+                                            <h4>1,011.08189600</h4>
+                                            <p><b>DOGE earned</b></p>
+                                        </li>
+                                    </ul>
+                                </div><!-- .col -->
+                            </div><!-- .row  -->
+                        </div><!-- .block @e -->
+                        <div class="nk-block nk-block-about" id="intro">
+                            <div class="row gutter-vr-30px">
+                                <div class="col-12 col-lg-4 order-lg-last">
+                                    <div class="feature bg-black-14 round feature-s11 boxed boxed-md animated" data-animate="fadeInUp" data-delay=".3">
+                                        <h6 class="title-xs tc-primary">Introduction</h6>
+                                        <h2 class="title title-lg">Who We Are</h2>
+                                        <p>We are cloud mining service provider, We bring you the best cryptocurrency mining, provide the greatest experience in investing your money, earn cryptocurrency and withdraw it to your FaucetPay wallet.</p>
+                                    </div>
+                                </div><!-- .col -->
+                                <div class="col-sm-6 col-lg-4">
+                                    <div class="feature feature-s11 animated" data-animate="fadeInUp" data-delay=".4">
+                                        <h2 class="title title-lg">Start Mining</h2>
+                                        <p>We provide a free plan for those of you who want to earn without investment, also complete shortlinks to increase your mining power.</p>
+                                    </div>
+                                </div><!-- .col -->
+                                <div class="col-sm-6 col-lg-4">
+                                    <div class="feature feature-s11 animated" data-animate="fadeInUp" data-delay=".5">
+                                        <h2 class="title title-lg">Why choose Free Dogecoin Miner</h2>
+                                        <p>Joining us is the best way to earn crypto currency, easy to use and easy to understand web, earn more crypto currency by inviting relatives. and your friend.</p>
+                                    </div>
+                                </div><!-- .col -->
+                            </div><!-- .row -->
+                        </div><!-- .block @e -->
+                    </div><!-- .conatiner  -->
+                    <div class="gap-4x d-none d-md-block"></div>
+                    <div class="gap-10x d-none d-lg-block"></div>
+                </section>
+                <!-- // -->
+            </main>
+            <!-- Footer -->
+            <footer class="nk-footer bg-theme-alt nk-footer-angled">
+                <div class="overlay-bars reverse">
+                    <div class="overlay-bar-1"></div>
+                    <div class="overlay-bar-2"></div>
+                    <div class="overlay-bar-3"></div>
+                    <div class="overlay-bar-4"></div>
+                    <div class="overlay-bar-5"></div>
+                    <div class="overlay-bar-6"></div>
+                    <div class="overlay-bar-7"></div>
+                </div>
+                <div class="gap-8x"></div>
+                <div class="gap-10x"></div>
+                <div class="gap-10x"></div>
+                <div class="gap-10x"></div>
+                <div class="gap-10x"></div>
+                <section class="section section-m bg-transparent tc-light ov-v">
+                    <div class="container">
+                        <!-- Section Head @s -->
+                        <div class="section-head text-center wide-auto-sm" id="cur">
+                            <h4 class="title-xs title-semibold animated" data-animate="fadeInUp" data-delay=".1">Supported Currencies</h4>
+                        </div><!-- .section-head @e -->
+                        <!-- Block @s -->
+                        <div class="nk-block block-partners pdb-r">
+                            <ul class="partner-list partner-list-s2 flex-wrap pb-3">
+                                                            <li class="partner-logo-s3 animated" data-animate="fadeInUp" data-delay=".15"><img src="https://dminer.me/BSassets/images/currencies/doge.png" alt="DOGE"></li>
+                                                        </ul>
+                        </div>
+                        <div class="card" id="proof">
+                            <div class="card-body text-dark">
+                             <h3 class="text-dark">All Payout History</h3>
+                                <div class="table-responsive">
+                                    <table class="table">
+                                        <thead>
+                                            <tr>
+                                                <th scope="col">#</th>
+                                                <th scope="col">FaucetPay Email</th>
+                                                <th scope="col">Amount</th>
+                                                <th scope="col">Time</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                        <tr><th scope="row">15052</th><td>hu******608@gmail.com</td><td>0.01464000 DOGE</td><td>4 Minutes ago</td></tr><tr><th scope="row">15051</th><td>el******@gmail.com</td><td>0.00100000 DOGE</td><td>8 Minutes ago</td></tr><tr><th scope="row">15050</th><td>ha******n137ml@gmail.com</td><td>0.65000000 DOGE</td><td>8 Minutes ago</td></tr><tr><th scope="row">15049</th><td>Bi******alogo@gmail.com</td><td>0.00200000 DOGE</td><td>9 Minutes ago</td></tr><tr><th scope="row">15048</th><td>ja******e@mail.ru</td><td>2.00000000 DOGE</td><td>9 Minutes ago</td></tr><tr><th scope="row">15047</th><td>fi******@gmail.com</td><td>0.00500000 DOGE</td><td>12 Minutes ago</td></tr><tr><th scope="row">15046</th><td>db******960@gmail.com</td><td>0.00500000 DOGE</td><td>14 Minutes ago</td></tr><tr><th scope="row">15045</th><td>de******era9@gmail.com</td><td>0.00420000 DOGE</td><td>18 Minutes ago</td></tr><tr><th scope="row">15044</th><td>se******n.potas@web.de</td><td>1.70000000 DOGE</td><td>23 Minutes ago</td></tr><tr><th scope="row">15043</th><td>as******ullah208@gmail.com</td><td>0.02083700 DOGE</td><td>25 Minutes ago</td></tr><tr><th scope="row">15042</th><td>as******ullah208@gmail.com</td><td>0.50000000 DOGE</td><td>27 Minutes ago</td></tr><tr><th scope="row">15041</th><td>19******k.frolov@gmail.com</td><td>0.00100000 DOGE</td><td>27 Minutes ago</td></tr><tr><th scope="row">15040</th><td>ha******m@gmail.com</td><td>0.00100000 DOGE</td><td>27 Minutes ago</td></tr><tr><th scope="row">15039</th><td>th******n_3322@hotmail.com</td><td>0.00100000 DOGE</td><td>32 Minutes ago</td></tr><tr><th scope="row">15038</th><td>ut******man756@gmail.com</td><td>0.00100000 DOGE</td><td>41 Minutes ago</td></tr><tr><th scope="row">15037</th><td>da******imah56@gmail.com</td><td>0.03800000 DOGE</td><td>41 Minutes ago</td></tr><tr><th scope="row">15036</th><td>va******mmm13@gmail.com</td><td>0.00100000 DOGE</td><td>41 Minutes ago</td></tr><tr><th scope="row">15035</th><td>nh******87364@gmail.com</td><td>0.00100000 DOGE</td><td>48 Minutes ago</td></tr><tr><th scope="row">15034</th><td>09******03a@gmail.com</td><td>0.00500000 DOGE</td><td>50 Minutes ago</td></tr><tr><th scope="row">15033</th><td>ca******h089@gmail.com</td><td>0.00100000 DOGE</td><td>54 Minutes ago</td></tr><tr><th scope="row">15032</th><td>ca******h089@gmail.com</td><td>0.00100000 DOGE</td><td>54 Minutes ago</td></tr><tr><th scope="row">15031</th><td>bi******4@gmail.com</td><td>0.00535000 DOGE</td><td>58 Minutes ago</td></tr><tr><th scope="row">15030</th><td>ar******hanth69@gmail.com</td><td>0.00500000 DOGE</td><td>1 Hour, 5 Minutes ago</td></tr><tr><th scope="row">15029</th><td>ki******875@gmail.com</td><td>0.00200000 DOGE</td><td>1 Hour, 8 Minutes ago</td></tr><tr><th scope="row">15028</th><td>ha******571@gmail.com</td><td>0.01200000 DOGE</td><td>1 Hour, 9 Minutes ago</td></tr><tr><th scope="row">15027</th><td>ru******0@gmail.com</td><td>0.00100000 DOGE</td><td>1 Hour, 13 Minutes ago</td></tr><tr><th scope="row">15026</th><td>mi******e@gmail.com</td><td>0.00248000 DOGE</td><td>1 Hour, 13 Minutes ago</td></tr><tr><th scope="row">15025</th><td>di******ani91@gmail.com</td><td>0.01596000 DOGE</td><td>1 Hour, 18 Minutes ago</td></tr><tr><th scope="row">15024</th><td>ma******hernandez@gmail.com</td><td>0.00132000 DOGE</td><td>1 Hour, 21 Minutes ago</td></tr><tr><th scope="row">15023</th><td>ve******an.divya021@gmail.com</td><td>0.00200000 DOGE</td><td>1 Hour, 24 Minutes ago</td></tr><tr><th scope="row">15022</th><td>al******a92@gmail.com</td><td>0.00865000 DOGE</td><td>1 Hour, 25 Minutes ago</td></tr><tr><th scope="row">15021</th><td>Di******restha687@gmail.com</td><td>0.15975510 DOGE</td><td>1 Hour, 28 Minutes ago</td></tr><tr><th scope="row">15020</th><td>ar******ato@gmail.com</td><td>0.06999000 DOGE</td><td>1 Hour, 29 Minutes ago</td></tr><tr><th scope="row">15019</th><td>zh******ly.kakaboz@gmail.com</td><td>0.00208000 DOGE</td><td>1 Hour, 32 Minutes ago</td></tr><tr><th scope="row">15018</th><td>ha******ng@gmail.com</td><td>0.00188000 DOGE</td><td>1 Hour, 34 Minutes ago</td></tr><tr><th scope="row">15017</th><td>ay******jaz97a@gmail.com</td><td>0.00101000 DOGE</td><td>1 Hour, 35 Minutes ago</td></tr><tr><th scope="row">15016</th><td>tk******al@gmail.com</td><td>0.04176000 DOGE</td><td>1 Hour, 36 Minutes ago</td></tr><tr><th scope="row">15015</th><td>bo******1969@gmail.com</td><td>0.03960000 DOGE</td><td>1 Hour, 36 Minutes ago</td></tr><tr><th scope="row">15014</th><td>yu******yandex.ru</td><td>0.00598000 DOGE</td><td>1 Hour, 39 Minutes ago</td></tr><tr><th scope="row">15013</th><td>ag******@gmail.com</td><td>0.00100000 DOGE</td><td>1 Hour, 40 Minutes ago</td></tr><tr><th scope="row">15012</th><td>so******ena964@gmail.com</td><td>0.00600000 DOGE</td><td>1 Hour, 40 Minutes ago</td></tr><tr><th scope="row">15011</th><td>em******ana@gmail.com</td><td>0.00267000 DOGE</td><td>1 Hour, 43 Minutes ago</td></tr><tr><th scope="row">15010</th><td>v3******r3nt@gmail.com</td><td>0.00184000 DOGE</td><td>1 Hour, 46 Minutes ago</td></tr><tr><th scope="row">15009</th><td>be******856@gmail.com</td><td>0.00833000 DOGE</td><td>1 Hour, 48 Minutes ago</td></tr><tr><th scope="row">15008</th><td>de******sanah.21711@gmail.com</td><td>0.00202000 DOGE</td><td>1 Hour, 49 Minutes ago</td></tr><tr><th scope="row">15007</th><td>ma******27@gmail.com</td><td>0.00100000 DOGE</td><td>1 Hour, 49 Minutes ago</td></tr><tr><th scope="row">15006</th><td>er******5@gmail.com</td><td>0.28000000 DOGE</td><td>1 Hour, 49 Minutes ago</td></tr><tr><th scope="row">15005</th><td>us******@gmail.com</td><td>0.05000000 DOGE</td><td>1 Hour, 50 Minutes ago</td></tr><tr><th scope="row">15004</th><td>sh******@gmail.com</td><td>0.02270000 DOGE</td><td>1 Hour, 55 Minutes ago</td></tr><tr><th scope="row">15003</th><td>am******vin@gmail.com</td><td>0.00100000 DOGE</td><td>2 Hours ago</td></tr>                                        </tbody>
+                                    </table>
+                                </div>     
+                            </div>  
+                        </div> 
+                        <hr class="hr hr-white-15">
+                        <!-- Block @s -->
+                        <div class="nk-block block-footer pdt-l">
+                            <div class="footer-bottom pdt-l">
+                                <div class="row justify-content-center">
+                                    <div class="col-lg-7">
+                                        <div class="copyright-text copyright-text-s3">
+                                            <p><span class="d-block"><span id="copyright"> ©  2022, <a href="https://dminer.me/"> Free Dogecoin Miner</a> </span></span></p>
+                                        </div>
+                                    </div><!-- .col -->
+                                    <div class="col-lg-5 text-lg-end">
+                                        <ul class="footer-links">
+                                            <li><a href="#">Privacy Policy</a></li>
+                                            <li><a href="#">Terms &amp; Conditions</a></li>
+                                        </ul>
+                                    </div><!-- .col -->
+                                </div><!-- .row -->
+                            </div>
+                        </div><!-- .block @e -->
+                    </div>
+                </section>
+            </footer>
+        </div>
